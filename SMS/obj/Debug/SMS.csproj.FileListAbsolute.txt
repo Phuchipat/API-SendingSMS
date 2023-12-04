@@ -1,0 +1,12 @@
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\bin\Debug\SMS.exe.config
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\obj\Debug\SMS.Form1.resources
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\bin\Debug\SMS.exe
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\bin\Debug\SMS.pdb
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\bin\Debug\MaterialSkin.dll
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\obj\Debug\SMS.exe
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\obj\Debug\SMS.pdb
+c:\users\santie\documents\visual studio 2012\Projects\SMS\SMS\bin\Debug\MetroFramework.dll
